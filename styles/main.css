@@ -3,3 +3,7 @@ i.fa {
 	width: 160px;
 	line-height: 200px;
 }
+
+.featurette img {
+	margin: auto;
+}
