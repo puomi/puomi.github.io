@@ -7,3 +7,51 @@ i.fa {
 .featurette img {
 	margin: auto;
 }
+
+#about {
+	text-align: center;
+	min-height: 100vh;
+	margin-top: 60px;
+	padding-top: 10%;
+}
+
+#about img {
+	width: 140px;
+	height: 140px;
+}
+
+#about h2 {
+	margin-top: 20px;
+}
+
+#team, #projects {
+	min-height: 100vh;
+}
+
+#team .col-lg-12 {
+	text-align: center;
+	margin-top: 10px;
+}
+
+#team img {
+	width: 140px;
+	height: 140px;
+}
+
+#contact {
+	min-height: 84vh;
+}
+
+#contact .col-md-12 {
+	text-align: center;
+}
+
+.navbar-brand img {
+	opacity: 0.5;
+	width: 28px;
+	height: 28px;
+}
+
+#about h1 span {
+	font-size: 65px;
+}
