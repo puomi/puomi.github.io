@@ -4,6 +4,10 @@ i.fa {
 	line-height: 200px;
 }
 
+a:hover {
+	text-decoration: none;
+}
+
 .featurette img {
 	margin: auto;
 }
