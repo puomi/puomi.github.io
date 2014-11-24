@@ -4,6 +4,16 @@ i.fa {
 	line-height: 200px;
 }
 
+.featurette {
+	margin-top: 10px;
+	margin-bottom: 90px;
+}
+
+.featurette-image {
+	width: 144px;
+	height: 144px;
+}
+
 a:hover {
 	text-decoration: none;
 }
